@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# --- Project-specific ---
+
+# Trained model weights
+*.pt
+
+# Dataset (regenerated via dataset_download.py, not stored in git)
+data/dataset/
+
+# Local database and runtime output
+potholes.db
+data/logged_images/
