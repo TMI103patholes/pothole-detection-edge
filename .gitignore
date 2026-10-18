@@ -229,3 +229,6 @@ data/dataset/
 # Local database and runtime output
 potholes.db
 data/logged_images/
+
+.env
+runs/
