@@ -232,3 +232,5 @@ data/logged_images/
 
 .env
 runs/
+test_images/
+test_output/
