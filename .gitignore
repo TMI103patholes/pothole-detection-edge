@@ -234,3 +234,4 @@ data/logged_images/
 runs/
 test_images/
 test_output/
+.DS_Store
