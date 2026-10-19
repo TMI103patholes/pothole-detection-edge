@@ -3,3 +3,4 @@ opencv-python
 roboflow
 python-dotenv
 openpyxl    
+pandas
